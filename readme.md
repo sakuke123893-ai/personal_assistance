@@ -1,8 +1,6 @@
 # ⚙️ JAI VARDHAN REDDY (55)
 ### The Ultimate Cross-Platform Personal AI Assistant — By @D.Jai VArdhan Reddy
 
-> 📺 **[Watch the full setup video on YouTube](https://www.youtube.com/@FatihMakes)**
-
 A real-time voice AI that can hear, see, speak, and control your computer — on any OS. Supports Windows, macOS, and Linux. Built on the Gemini Live API for native audio streaming, delivering zero subscriptions and total digital autonomy.
 
 ---
@@ -378,15 +376,6 @@ All three are listed in `.gitignore`, so a fork or a pull request cannot leak th
 
 Your voice is streamed to Google's Gemini Live API while a session is open; that is the one thing that leaves your computer, and it stops when you mute or close the app.
 
----
-
-## ⚠️ License
-
-Personal and non-commercial use only.
-Licensed under **[Creative Commons BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)**.
-
----
-
 ## 👤 Connect with the Creator
 
 Engineered by a developer building a real-world JAI VARDHAN REDDY-style assistant.
@@ -396,5 +385,6 @@ Engineered by a developer building a real-world JAI VARDHAN REDDY-style assistan
 | --- | --- |
 | YouTube | [@FatihMakes](https://www.youtube.com/@FatihMakes) |
 | Instagram | [@fatihmakes](https://www.instagram.com/fatihmakes) |
-#   p e r s o n a l _ a s s i s t a n c e  
+#   p e r s o n a l _ a s s i s t a n c e 
+ 
  
